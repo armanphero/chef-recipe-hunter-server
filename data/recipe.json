@@ -1,0 +1,320 @@
+[
+    {
+        "id": "1a2bc",
+        "name": "Chef John Doe",
+        "picture": "https://i.postimg.cc/4dL3Zdh4/chef1.jpg",
+        "experience": 10,
+        "bio": "Chef John Doe is a passionate culinary artist with a decade of experience in crafting delicious and visually stunning dishes. His innovative approach to classic recipes has earned him a loyal following.",
+        "likes": 5000,
+        "recipe_count": 3,
+        "recipes": [
+            {
+                "id": "r1",
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Eggs",
+                    "Bacon",
+                    "Parmesan Cheese",
+                    "Black Pepper"
+                ],
+                "cooking_method": "1. Boil spaghetti until al dente. 2. Cook bacon until crispy. 3. Whisk eggs and cheese. 4. Toss pasta with eggs, bacon, and pepper. 5. Serve hot.",
+                "rating": 4.8,
+                "picture": "https://i.postimg.cc/nzZcbWVk/recipe1.jpg"
+            },
+            {
+                "id": "r2",
+                "name": "Grilled Salmon",
+                "ingredients": [
+                    "Salmon Fillet",
+                    "Olive Oil",
+                    "Lemon",
+                    "Garlic",
+                    "Dill"
+                ],
+                "cooking_method": "1. Marinate salmon in olive oil, lemon juice, garlic, and dill. 2. Grill until cooked through. 3. Serve with lemon wedges.",
+                "rating": 4.5,
+                "picture": "https://i.postimg.cc/dQT8nkkj/recipe10.jpg"
+            },
+            {
+                "id": "r3",
+                "name": "Chocolate Lava Cake",
+                "ingredients": [
+                    "Butter",
+                    "Dark Chocolate",
+                    "Eggs",
+                    "Sugar",
+                    "Flour"
+                ],
+                "cooking_method": "1. Melt butter and chocolate. 2. Whisk eggs and sugar. 3. Mix in flour and melted chocolate. 4. Bake until edges are set but center is still gooey. 5. Serve with ice cream.",
+                "rating": 4.9,
+                "picture": "https://i.postimg.cc/BbDHvk9V/recipe11.jpg"
+            }
+        ]
+    },
+    {
+        "id": "3de4f",
+        "name": "Chef Jane Smith",
+        "picture": "https://i.postimg.cc/PxZtGxyw/chef2.jpg",
+        "experience": 8,
+        "bio": "With 8 years of culinary experience, Chef Jane Smith brings a fresh perspective to traditional recipes. Her dedication to using locally sourced ingredients shines through in her flavorful creations.",
+        "likes": 4500,
+        "recipe_count": 3,
+        "recipes": [
+            {
+                "id": "r4",
+                "name": "Chicken Alfredo Pasta",
+                "ingredients": [
+                    "Chicken Breast",
+                    "Fettuccine",
+                    "Heavy Cream",
+                    "Parmesan Cheese",
+                    "Garlic"
+                ],
+                "cooking_method": "1. Cook pasta until al dente. 2. Sauté chicken and garlic. 3. Add cream and cheese, simmer until thickened. 4. Toss pasta in sauce. 5. Serve hot.",
+                "rating": 4.7,
+                "picture": "https://i.postimg.cc/nrQMkD3j/recipe12.jpg"
+            },
+            {
+                "id": "r5",
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Fresh Mozzarella",
+                    "Basil Leaves",
+                    "Balsamic Vinegar",
+                    "Olive Oil"
+                ],
+                "cooking_method": "1. Slice tomatoes and mozzarella. 2. Layer with basil leaves. 3. Drizzle with balsamic vinegar and olive oil. 4. Season with salt and pepper. 5. Serve chilled.",
+                "rating": 4.6,
+                "picture": "https://i.postimg.cc/hGpJPgJj/recipe13.jpg"
+            },
+            {
+                "id": "r6",
+                "name": "Lemon Garlic Shrimp Scampi",
+                "ingredients": [
+                    "Shrimp",
+                    "Lemon",
+                    "Garlic",
+                    "Butter",
+                    "Parsley"
+                ],
+                "cooking_method": "1. Sauté shrimp and garlic in butter. 2. Add lemon juice and zest. 3. Toss with cooked pasta. 4. Garnish with parsley. 5. Serve hot.",
+                "rating": 4.8,
+                "picture": "https://i.postimg.cc/FKWjC0VD/recipe14.jpg"
+            }
+        ]
+    },
+    {
+        "id": "5gh6i",
+        "name": "Chef Michael Lee",
+        "picture": "https://i.postimg.cc/P5WrJK8R/chef3.jpg",
+        "experience": 12,
+        "bio": "Chef Michael Lee is a seasoned chef with 12 years of experience in the culinary industry. His expertise lies in creating mouthwatering dishes that blend traditional flavors with contemporary techniques.",
+        "likes": 6000,
+        "recipe_count": 3,
+        "recipes": [
+            {
+                "id": "r7",
+                "name": "Beef Wellington",
+                "ingredients": [
+                    "Beef Tenderloin",
+                    "Puff Pastry",
+                    "Mushrooms",
+                    "Prosciutto",
+                    "Dijon Mustard"
+                ],
+                "cooking_method": "1. Sear beef. 2. Wrap in prosciutto and mushroom mixture. 3. Encase in puff pastry. 4. Bake until golden. 5. Rest before slicing. 6. Serve with sauce.",
+                "rating": 4.9,
+                "picture": "https://i.postimg.cc/kX3WHJW3/recipe15.jpg"
+            },
+            {
+                "id": "r8",
+                "name": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Mascarpone Cheese",
+                    "Espresso",
+                    "Cocoa Powder",
+                    "Rum"
+                ],
+                "cooking_method": "1. Dip ladyfingers in espresso and rum. 2. Layer with mascarpone mixture. 3. Repeat layers. 4. Chill. 5. Dust with cocoa powder before serving.",
+                "rating": 4.7,
+                "picture": "https://i.postimg.cc/NMZRBYVX/recipe16.jpg"
+            },
+            {
+                "id": "r9",
+                "name": "Grilled Vegetable Platter",
+                "ingredients": [
+                    "Bell Peppers",
+                    "Zucchini",
+                    "Eggplant",
+                    "Cherry Tomatoes",
+                    "Balsamic Glaze"
+                ],
+                "cooking_method": "1. Slice vegetables. 2. Grill until tender. 3. Arrange on platter. 4. Drizzle with balsamic glaze. 5. Season with salt and pepper. 6. Serve warm.",
+                "rating": 4.6,
+                "picture": "https://i.postimg.cc/cLdwsFDF/recipe17.jpg"
+            }
+        ]
+    },
+    {
+        "id": "7jk8l",
+        "name": "Chef Emily Johnson",
+        "picture": "https://i.postimg.cc/cH7KNX4Z/chef4.jpg",
+        "experience": 6,
+        "bio": "Chef Emily Johnson, with 6 years of culinary experience, specializes in creating comforting yet elegant dishes that bring joy to the table. Her passion for cooking shines through in every recipe she prepares.",
+        "likes": 3800,
+        "recipe_count": 3,
+        "recipes": [
+            {
+                "id": "r10",
+                "name": "BBQ Ribs",
+                "ingredients": [
+                    "Pork Ribs",
+                    "BBQ Sauce",
+                    "Brown Sugar",
+                    "Paprika",
+                    "Garlic Powder"
+                ],
+                "cooking_method": "1. Rub ribs with spice mixture. 2. Slow cook in oven or grill. 3. Baste with BBQ sauce. 4. Continue cooking until tender. 5. Serve hot.",
+                "rating": 4.8,
+                "picture": "https://i.postimg.cc/02Y7RTC6/recipe18.jpg"
+            },
+            {
+                "id": "r11",
+                "name": "Caesar Salad",
+                "ingredients": [
+                    "Romaine Lettuce",
+                    "Croutons",
+                    "Parmesan Cheese",
+                    "Caesar Dressing",
+                    "Anchovies"
+                ],
+                "cooking_method": "1. Toss lettuce with dressing. 2. Add croutons, cheese, and anchovies. 3. Mix well. 4. Serve chilled.",
+                "rating": 4.5,
+                "picture": "https://i.postimg.cc/ryGc2j7n/recipe2.jpg"
+            },
+            {
+                "id": "r12",
+                "name": "Mango Salsa",
+                "ingredients": [
+                    "Mango",
+                    "Red Onion",
+                    "Bell Pepper",
+                    "Cilantro",
+                    "Lime Juice"
+                ],
+                "cooking_method": "1. Dice mango, onion, and pepper. 2. Mix with chopped cilantro. 3. Drizzle with lime juice. 4. Season with salt. 5. Serve chilled.",
+                "rating": 4.6,
+                "picture": "https://i.postimg.cc/BtW1Fgcw/recipe3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "9mn0p",
+        "name": "Chef David Brown",
+        "picture": "https://i.postimg.cc/FF6KBY4D/chef5.jpg",
+        "experience": 15,
+        "bio": "With 15 years of culinary experience, Chef David Brown is a master of his craft. His dedication to perfection and creativity in the kitchen have earned him widespread acclaim and admiration.",
+        "likes": 7000,
+        "recipe_count": 3,
+        "recipes": [
+            {
+                "id": "r13",
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "Beef Sirloin",
+                    "Onion",
+                    "Mushrooms",
+                    "Beef Broth",
+                    "Sour Cream"
+                ],
+                "cooking_method": "1. Sauté beef, onion, and mushrooms. 2. Add broth and simmer. 3. Stir in sour cream. 4. Serve over noodles or rice.",
+                "rating": 4.9,
+                "picture": "https://i.postimg.cc/T2K7r3Jr/recipe4.jpg"
+            },
+            {
+                "id": "r14",
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                    "Chicken Breast",
+                    "Tomato Sauce",
+                    "Mozzarella Cheese",
+                    "Parmesan Cheese",
+                    "Breadcrumbs"
+                ],
+                "cooking_method": "1. Bread chicken. 2. Fry until golden. 3. Top with sauce and cheese. 4. Bake until bubbly. 5. Serve with pasta.",
+                "rating": 4.7,
+                "picture": "https://i.postimg.cc/pT4B0KJK/recipe5.jpg"
+            },
+            {
+                "id": "r15",
+                "name": "Banana Bread",
+                "ingredients": [
+                    "Bananas",
+                    "Flour",
+                    "Sugar",
+                    "Eggs",
+                    "Butter"
+                ],
+                "cooking_method": "1. Mash bananas. 2. Mix with sugar, eggs, and melted butter. 3. Fold in flour. 4. Bake until golden. 5. Cool before slicing.",
+                "rating": 4.8,
+                "picture": "https://i.postimg.cc/pTbNg5CM/recipe6.jpg"
+            }
+        ]
+    },
+    {
+        "id": "1qr2s",
+        "name": "Chef Sarah Williams",
+        "picture": "https://i.postimg.cc/SRqgyT6G/chef6.jpg",
+        "experience": 9,
+        "bio": "Chef Sarah Williams brings 9 years of culinary experience to the table. Her commitment to using fresh, seasonal ingredients and her creative flair make her dishes a true delight for the senses.",
+        "likes": 4800,
+        "recipe_count": 3,
+        "recipes": [
+            {
+                "id": "r16",
+                "name": "Vegetable Stir Fry",
+                "ingredients": [
+                    "Broccoli",
+                    "Bell Peppers",
+                    "Carrots",
+                    "Snap Peas",
+                    "Soy Sauce"
+                ],
+                "cooking_method": "1. Sauté vegetables in soy sauce. 2. Cook until tender-crisp. 3. Serve hot over rice or noodles.",
+                "rating": 4.6,
+                "picture": "https://i.postimg.cc/GtR4h2cZ/recipe7.jpg"
+            },
+            {
+                "id": "r17",
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "Pasta",
+                    "Basil",
+                    "Pine Nuts",
+                    "Parmesan Cheese",
+                    "Garlic"
+                ],
+                "cooking_method": "1. Blend basil, pine nuts, cheese, and garlic. 2. Toss with cooked pasta. 3. Serve hot or cold.",
+                "rating": 4.5,
+                "picture": "https://i.postimg.cc/bYmCn2nY/recipe8.jpg"
+            },
+            {
+                "id": "r18",
+                "name": "Apple Pie",
+                "ingredients": [
+                    "Apples",
+                    "Pie Crust",
+                    "Sugar",
+                    "Cinnamon",
+                    "Flour"
+                ],
+                "cooking_method": "1. Slice apples. 2. Toss with sugar, cinnamon, and flour. 3. Fill pie crust. 4. Top with crust. 5. Bake until golden. 6. Cool before serving.",
+                "rating": 4.7,
+                "picture": "https://i.postimg.cc/MTLvVDmJ/recipe9.jpg"
+            }
+        ]
+    }
+]

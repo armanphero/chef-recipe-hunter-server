@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1a2bc",
+        "name": "Chef John Doe",
+        "picture": "https://i.postimg.cc/4dL3Zdh4/chef1.jpg",
+        "experience": 10,
+        "recipes": 150,
+        "likes": 5000
+    },
+    {
+        "id": "3de4f",
+        "name": "Chef Jane Smith",
+        "picture": "https://i.postimg.cc/PxZtGxyw/chef2.jpg",
+        "experience": 8,
+        "recipes": 120,
+        "likes": 4500
+    },
+    {
+        "id": "5gh6i",
+        "name": "Chef Michael Lee",
+        "picture": "https://i.postimg.cc/P5WrJK8R/chef3.jpg",
+        "experience": 12,
+        "recipes": 180,
+        "likes": 6000
+    },
+    {
+        "id": "7jk8l",
+        "name": "Chef Emily Johnson",
+        "picture": "https://i.postimg.cc/cH7KNX4Z/chef4.jpg",
+        "experience": 6,
+        "recipes": 90,
+        "likes": 3800
+    },
+    {
+        "id": "9mn0p",
+        "name": "Chef David Brown",
+        "picture": "https://i.postimg.cc/FF6KBY4D/chef5.jpg",
+        "experience": 15,
+        "recipes": 200,
+        "likes": 7000
+    },
+    {
+        "id": "1qr2s",
+        "name": "Chef Sarah Williams",
+        "picture": "https://i.postimg.cc/SRqgyT6G/chef6.jpg",
+        "experience": 9,
+        "recipes": 130,
+        "likes": 4800
+    }
+]
